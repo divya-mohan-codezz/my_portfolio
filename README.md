@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 
 A responsive personal portfolio built with React.js to showcase my projects, skills, and contact information.
@@ -24,3 +25,7 @@ Launches the test runner.
 
 - React documentation: https://reactjs.org/
 - Create React App documentation: https://facebook.github.io/create-react-app/docs/getting-started
+=======
+# my_portfolio
+A responsive personal portfolio built with React.js to showcase my projects, skills, and contact information.
+>>>>>>> 9f0f420d78a1487c323bc5fc27e81aa4ffbe7c55
